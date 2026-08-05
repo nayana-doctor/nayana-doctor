@@ -1,35 +1,60 @@
 # Hi, I'm Dr. Nayana Komalan 👋
 
-🩺 **Medical Doctor (MBBS)** | **Aspiring Clinical Research Associate (CRA)** | Based in **Ireland**
+**Medical Doctor (MBBS) | Aspiring Clinical Research Associate (CRA) & CTA**  
+📍 Based in Galway, Ireland | **Full, Unrestricted Work Authorization**
 
-I bridge clinical medicine with trial operations—combining medical degree training and clinical experience across acute care and cardiology with practical skills in clinical research methodologies, electronic data capture frameworks, and compliance standards.
-
----
-
-### 🔬 Overview & Key Qualifications
-- **Medical Education & Qualification:** MBBS graduate (Government Medical College, Ernakulam) with full GMC registration (UK).
-- **Clinical Expertise:** Practical experience as a Medical Officer in Critical Care Medicine and Cardiology, alongside clinical attachment experience in Acute Medicine.
-- **Trial & Data Operations:** Self-taught in eCRF design, clinical trial data dictionaries, and study data sheet structuring using spreadsheet models.
-- **Compliance & Training:** Certified in **ICH Good Clinical Practice (ICH-GCP)** (Global Health Network) and national **GDPR** standards.
-- **Work Status:** Based in Galway, Ireland on a Spouse Visa with **full, unrestricted work authorization**.
+I bridge clinical medicine with trial operations—combining MBBS clinical training in acute care and cardiology with practical skills in clinical research methodologies, electronic data capture (EDC/eCRF) frameworks, and global compliance standards.
 
 ---
 
-### 🛠️ Research Portfolio & Projects
-- 📋 **eCRF & Clinical Trial Data Dictionary Mockups:** Structuring trial data variables, metadata, and simulated electronic Case Report Forms.
-- 📊 **Observational Research & Methodologies:** Undergraduate study on sleep hygiene and conceptual research frameworks published on GitHub.
+### 🔬 Profile & Key Qualifications
+
+- 🩺 **Medical Qualification & Registration:** MBBS Graduate (Government Medical College, Ernakulam) | GMC Registered (UK).
+- 🏥 **Clinical Foundation:** Experience as a Medical Officer in Critical Care Medicine and Cardiology, alongside an NHS Clinical Attachment in Acute Medicine.
+- 📜 **Regulatory & Ethics Certifications:** 
+  - **ICH Good Clinical Practice (ICH-GCP)** — *The Global Health Network*
+  - **National GDPR Data Protection & Privacy** — *HSeLanD*
+- 💻 **Trial & Data Operations:** Hands-on projects building mock eCRF templates, trial data dictionaries, and structured clinical study sheets.
+- 🇮🇪 **Right to Work:** Based in Galway, Ireland on a Stamp 1G/Spouse Visa with full right to work (no sponsorship required).
 
 ---
 
-### 🎯 Career Goals
-Actively seeking entry and associate roles in clinical research within Ireland, including:
-- Clinical Research Associate (CRA) / Trainee CRA
-- Clinical Research Coordinator (CRC)
-- Clinical Trial Assistant (CTA) / Data Management Roles
+### 🛠️ Clinical Research Portfolio & Open-Source Projects
+
+#### 📋 [eCRF & Clinical Data Dictionary Architecture](https://github.com/nayana-doctor)
+*Designed and structured simulated electronic Case Report Forms (eCRFs) and data dictionaries for clinical trials.*
+- Mapped trial data variables, metadata, inclusion/exclusion criteria, and safety monitoring parameters.
+- Standardized data entry fields to mimic EDC software workflows (e.g., REDCap/Medidata Rave standards).
+
+#### 📊 [Observational Research & Protocol Frameworks](https://github.com/nayana-doctor)
+*Undergraduate research project evaluating sleep hygiene metrics and health outcomes.*
+- Applied observational study methodologies, structured data collection tools, and basic statistical data analysis.
 
 ---
 
-### 📬 Contact & Links
-- **LinkedIn:** [linkedin.com/in/nayanakomalan1997](https://linkedin.com/in/nayanakomalan1997)
-- **Email:** [nayana.doctor@gmail.com](mailto:nayana.doctor@gmail.com)
-- **GitHub:** [github.com/nayana-doctor](https://github.com/nayana-doctor)
+### 💼 Core Competencies & Technical Skills
+
+| Domain | Key Skills & Methodologies |
+| :--- | :--- |
+| **Regulatory Compliance** | ICH-GCP (E6 R2/R3), GDPR Compliance, Clinical Governance, Patient Safety |
+| **Trial Operations** | Source Document Verification (SDV), Protocol Adherence, AE/SAE Logging, Audit Preparation |
+| **Data & Systems** | Electronic Case Report Forms (eCRF), Trial Data Dictionaries, EMR/EHR Systems, MS Excel |
+| **Therapeutic Areas** | Acute Medicine, Cardiology, Critical Care, General Medicine |
+
+---
+
+### 🎯 Target Roles
+I am actively seeking clinical trial and research positions across Ireland (Galway, Dublin, Cork, or Remote):
+- Clinical Trial Assistant (CTA) / Clinical Research Assistant
+- Clinical Research Coordinator (CRC) / Site Coordinator
+- Trainee Clinical Research Associate (CRA)
+- Clinical Data Management Assistant
+
+---
+
+### 📬 Connect with Me
+
+- 💼 **LinkedIn:** [linkedin.com/in/nayanakomalan1997](https://linkedin.com/in/nayanakomalan1997)
+- 📧 **Email:** [nayana.doctor@gmail.com](mailto:nayana.doctor@gmail.com)
+- 🆔 **ORCID:** [orcid.org/0009-0007-2823-799X](https://orcid.org/0009-0007-2823-799X)
+- 📁 **GitHub Portfolio:** [github.com/nayana-doctor](https://github.com/nayana-doctor)
